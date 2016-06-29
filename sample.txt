@@ -1,2 +1,3 @@
 B1 note 
 B2 note
+Delete B4 note
